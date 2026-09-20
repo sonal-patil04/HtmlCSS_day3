@@ -1,0 +1,27 @@
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(100,100,100);
+}
+
+.Email-text{
+    margin-bottom: 5px;
+}
+
+.email{
+    border-radius: 3px;
+    border-style: solid;
+    height:25px;
+    width: 390px;
+}
+
+.button{
+    border-radius: 20px;
+    border:none;
+    background-color: rgb(61, 61, 198);
+    padding-bottom: 13px;
+    padding-top: 13px;
+    padding-left: 150px;
+    padding-right: 150px;
+    color: white;
+    font-size: 17px;
+}

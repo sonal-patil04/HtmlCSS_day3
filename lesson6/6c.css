@@ -1,0 +1,31 @@
+
+    .verdana
+    {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-weight: bold;
+        font-size: 20px;
+        margin-bottom: 2px;
+    }
+    
+    .Beginner
+    {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: gray;
+        margin-top: 3px;
+    }
+
+    .course
+    {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        
+    }
+
+    .button
+    {
+        background-color: rgb(52, 129, 34);
+        color: white;
+        border: none;
+        height: 30px;
+        width: 100px;
+        border-radius: 10px ;
+    }
